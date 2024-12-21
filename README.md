@@ -27,6 +27,7 @@ conda env create > CoolNet.yaml
 
 
 ###  References
+```
 @article{xiao2023cross,
   title={Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis},
   author={Xiao, Luwei and Wu, Xingjiao and Yang, Shuwen and Xu, Junjie and Zhou, Jie and He, Liang},
@@ -37,7 +38,7 @@ conda env create > CoolNet.yaml
   year={2023},
   publisher={Elsevier}
 }
-
+```
 
 ### Acknowledgements
 - Using these two datasets means you have read and accepted the copyrights set by Twitter and dataset providers.
