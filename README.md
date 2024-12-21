@@ -1,6 +1,6 @@
 # CoolNet: Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis
 
-This repository contains the source code and datasets associated with the paper titled "Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis."
+This repository contains the source code and datasets associated with the paper titled ["Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis"](https://www.sciencedirect.com/science/article/pii/S0306457323002455)
 
 <p align="center">
   <img src="./CoolNet.png" width="800"/>
