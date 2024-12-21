@@ -3,7 +3,7 @@
 This repository contains the source code and datasets associated with the paper titled "Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis."
 
 <p align="center">
-  <img src="./chimera.png" width="800"/>
+  <img src="./CoolNet.png" width="800"/>
 </p>
 
 
