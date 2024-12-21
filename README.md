@@ -11,7 +11,8 @@ This repository contains the source code and datasets associated with the paper 
 
 - Step 1：Download each tweet's associated images via this link [Google Drive](https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view), and then put the associated images into folders "./datasets/twitter2015_images/" and "./datasets/twitter2017_images/";
 - Step 2: Download each finetune file via this link [Google Drive](https://drive.google.com/drive/folders/1nRHti6jdcrZOkh6PaqnpgdllAxjUuMCO?usp=sharing), and then put the associaled finetune model files into folder "./finetune/roberta_15/final/" and "./finetune/roberta_17/final/"
-- Step 3: Download the pre-trained roberta-base-cased and put the pre-trained roberta model under the folder "./model/roberta-base-cased/"  
+- Step 3: Download the pre-trained roberta-base-cased and put the pre-trained roberta model under the folder "./model/roberta-base-cased/"
+- Step 4: Download the VIG checkpoints [vig_s_80.6](https://objects.githubusercontent.com/github-production-release-asset-2e65be/222110214/6aed88e9-a18a-4d4b-94ef-ef7b263146a1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241221T090626Z&X-Amz-Expires=300&X-Amz-Signature=bac5ecb4aecd6064ede090b6ae0c3ea5b9eec8f43a4757ae130f0a72cec22111&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dvig_s_80.6.pth&response-content-type=application%2Foctet-stream) and put it under the folder "./"
 
 
 ## Requirement
