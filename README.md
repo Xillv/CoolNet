@@ -22,9 +22,12 @@ conda env create > CoolNet.yaml
 ### Training for CoolNet
 - python solve_final.py
 
-```
 
-### Reference
+
+
+###  References
+
+```
 
 @article{xiao2023cross,
   title={Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis},
@@ -36,6 +39,8 @@ conda env create > CoolNet.yaml
   year={2023},
   publisher={Elsevier}
 }
+
+
 ```
 
 
