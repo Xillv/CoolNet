@@ -27,6 +27,7 @@ conda env create > CoolNet.yaml
 
 
 ###  References
+If you find this repository useful, we kindly request that you cite our paper and consider starring this repository.
 ```
 @article{xiao2023cross,
   title={Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis},
